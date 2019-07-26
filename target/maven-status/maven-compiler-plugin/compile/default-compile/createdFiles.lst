@@ -1,0 +1,6 @@
+com\kgisl\zigwheels\model\Car.class
+com\kgisl\zigwheels\controller\CarController.class
+com\kgisl\zigwheels\service\CarService.class
+com\kgisl\zigwheels\service\CarServiceImpl.class
+com\kgisl\zigwheels\ZigwheelsApplication.class
+com\kgisl\zigwheels\repository\CarRepository.class
