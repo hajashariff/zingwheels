@@ -11,5 +11,5 @@ addons:
  sonarcloud:
    organization: zigwheels
    token:
-     secure: 
+     secure:  311a62bf2f954c2a7ac13b197e0482938aa9c527
      
