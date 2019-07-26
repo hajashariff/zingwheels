@@ -4,3 +4,7 @@ before_install:
 - chmod +x mvnw
 after_success:
 - bash <(curl -s https://codecov.io/bash)
+deploy:
+provider: heroku
+api_key: f03fd8bb-fe89-4954-ae49-0602aec70508
+app: zig1
