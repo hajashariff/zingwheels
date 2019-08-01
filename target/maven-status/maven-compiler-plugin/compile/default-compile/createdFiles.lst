@@ -1,6 +1,14 @@
+com\kgisl\zigwheels\controller\TeamController.class
 com\kgisl\zigwheels\model\Car.class
-com\kgisl\zigwheels\controller\CarController.class
 com\kgisl\zigwheels\service\CarService.class
+com\kgisl\zigwheels\controller\HomeController.class
+com\kgisl\zigwheels\config\SwaggerConfig.class
+com\kgisl\zigwheels\entity\TeamDto.class
+com\kgisl\zigwheels\entity\Team.class
+com\kgisl\zigwheels\repository\TeamRepository.class
+com\kgisl\zigwheels\controller\CarController.class
 com\kgisl\zigwheels\service\CarServiceImpl.class
 com\kgisl\zigwheels\ZigwheelsApplication.class
+com\kgisl\zigwheels\service\TeamServiceImp.class
+com\kgisl\zigwheels\service\TeamService.class
 com\kgisl\zigwheels\repository\CarRepository.class

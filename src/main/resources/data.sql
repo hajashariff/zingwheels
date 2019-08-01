@@ -1,5 +1,5 @@
-insert into car (id,name) values (1,'Honda');
-insert into car (id,name) values (2,'Hyndai');
-insert into car (id,name) values (3,'Suzuki');
-insert into car (id,name) values (4,'Renault');
-insert into car (id,name) values (5,'Audi');
+insert into team (teamid,teamname) values (1,'India');
+insert into team (teamid,teamname) values (2,'UK');
+insert into team (teamid,teamname) values (3,'USA');
+insert into team (teamid,teamname) values (4,'JAPAN');
+insert into team (teamid,teamname) values (5,'CANADA');
